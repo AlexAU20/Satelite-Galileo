@@ -1,14 +1,19 @@
-### Los satélites galileanos
+# Curriculum Vitae
 
-Se llaman **satélites galileanos** los cuatro satélites
-de Júpiter descubiertos en 1610 por 
-[Galileo Galilei](https://es.wikipedia.org/wiki/Galileo_Galilei): 
-*Ío*, *Europa*, *Ganimedes* y *Calisto*. 
-Son los más grandes de los satélites de Júpiter, 
-siendo visibles incluso con telescopios de baja potencia.
+##### Nombre
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jupiter_and_the_Galilean_Satellites.jpg/168px-Jupiter_and_the_Galilean_Satellites.jpg)
+Alexander Araica
 
-**Figura 1**. Los cuatro satélites galileanos, 
-en una composición que compara sus tamaños con el tamaño de Júpiter. 
-En orden descendente, son *Ío*, *Europa*, *Ganimedes* y *Calisto*.
+##### Grados Academicos
+
+- Primaria
+- Secundaria
+  - Tecnico en Informatica
+  - Bachillerato
+- Universidad de Costa Rica
+
+Perfil a [Linkein](https://cr.linkedin.com/)
+
+***Fotografia***
+
+<img src="Alex.jpg" alt="Foto Alex" width=200>
